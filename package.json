@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@percy/cli": "^1.29.1",
+    "@percy/playwright": "^1.0.6",
+    "@playwright/test": "^1.46.0"
+  }
 }
